@@ -1,4 +1,4 @@
-# blinket-sales-dashboard
+# blinkit-sales-dashboard
 # Grocery Sales Dashboard (Excel + Power BI)
 
 This project shows a simple sales analysis using a grocery dataset.
